@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[driven]]></title>
+        <description><![CDATA[driven]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 27 Oct 2015 17:35:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Alfa Romeo : GTV 1750]]></title>
+            <description><![CDATA[<article><h1>Alfa Romeo : GTV 1750</h1><p>Alfa Romeo : GTV 1750 in eBay Motors, Cars & Trucks, Alfa Romeo | eBay</p><img src="http://i.ebayimg.com/images/i/171980330617-0-1/s-l1000.jpg"></article>]]></description>
+            <link>http://www.ebay.com/itm/171980330617?ssPageName=STRK:MESELX:IT&amp;_trksid=p3984.m1558.l2649</link>
+            <guid isPermaLink="false">1250ba3f-4dfc-4b2f-af66-067b5a352474</guid>
+            <pubDate>Tue, 27 Oct 2015 17:35:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
